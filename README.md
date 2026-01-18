@@ -1,4 +1,6 @@
 # Zulamy25App
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 Zulamy25App é um aplicativo Android interativo que apresenta uma grade de 25 botões numerados. Ao selecionar um botão, o usuário é direcionado para uma tela de detalhes que exibe uma imagem e um texto correspondentes ao número escolhido. O aplicativo também reproduz uma música de fundo contínua enquanto está em uso.
 
